@@ -2,7 +2,8 @@ public class App {
     public static void main(String[] args) throws Exception {
         Fibonacci fib = new Fibonacci();
 
-        fib.fibo(6);
+        //fib.fibo(quantidade de elementos da sequencia);
+        fib.fibo(5);
 
     }
 }

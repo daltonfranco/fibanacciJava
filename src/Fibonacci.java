@@ -16,7 +16,6 @@ public class Fibonacci{
             num2 = fibo;
             System.out.print(fibo + " -> ");
             seq++;
-            
         }
 
         System.out.println("End");
