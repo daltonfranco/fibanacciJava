@@ -2,6 +2,7 @@ public class Fibonacci{
 
     public void fibo(int h){
 
+        
         int num1 = 0;
         int num2 = 1;
         int seq = 0;

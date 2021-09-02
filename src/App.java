@@ -3,7 +3,7 @@ public class App {
         Fibonacci fib = new Fibonacci();
 
         //fib.fibo(quantidade de elementos da sequencia);
-        fib.fibo(5);
+        fib.fibo(8);
 
     }
 }
